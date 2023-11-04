@@ -1,11 +1,6 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ROCKY-D3V&repo=XD-ADVANCE-MUSIC&theme=flag-india)
-
-[![GIF](https://github.com/ROCKY-D3V/XD-ADVANCE-MUSIC/blob/main/ROCKY-D3V.gif)](https://github.com/DAXXTEAM)
-   [![ʀᴏᴄᴋʏ](https://github-stats-alpha.vercel.app/api?username=ROCKY-D3V "ROCKY")](ROCKY-D3V "ROCKY")
-
 
 <p align="center">
   <img src="https://graph.org/file/58b2faf0e096d6769dad4.jpg">
